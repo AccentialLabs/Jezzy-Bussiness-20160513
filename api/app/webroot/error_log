@@ -1,0 +1,55 @@
+[19-Mar-2013 08:09:52] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/trueo846/public_html/api/app/Plugin/Companies/Controller/CompaniesController.php on line 118
+[19-Mar-2013 08:09:52] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/trueo846/public_html/api/app/Plugin/Companies/Controller/CompaniesController.php on line 118
+[19-Mar-2013 08:38:42] PHP Fatal error:  Call to a member function save() on a non-object in /home/trueo846/public_html/api/app/Plugin/Companies/Controller/CompaniesController.php on line 149
+[19-Mar-2013 08:38:50] PHP Fatal error:  Call to a member function save() on a non-object in /home/trueo846/public_html/api/app/Plugin/Companies/Controller/CompaniesController.php on line 149
+[26-Mar-2013 15:27:55] PHP Fatal error:  Call to a member function setConditionsForSelect() on a non-object in /home/trueo846/public_html/api/app/Plugin/Companies/Controller/CompaniesController.php on line 136
+[12-Apr-2013 14:10:58] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/public_html/api/app/Plugin/Companies/Controller/CompaniesController.php on line 62
+[12-Apr-2013 14:11:43] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/public_html/api/app/Plugin/Companies/Controller/CompaniesController.php on line 62
+[12-Apr-2013 14:13:57] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/public_html/api/app/Plugin/Users/Controller/UsersController.php on line 47
+[12-Apr-2013 14:20:10] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/public_html/api/app/Plugin/Users/Controller/UsersController.php on line 47
+[12-Apr-2013 14:22:42] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/public_html/api/app/Plugin/Companies/Controller/CompaniesController.php on line 62
+[16-Apr-2013 14:45:42] PHP Fatal error:  Call to a member function set() on a non-object in /home/trueo846/public_html/api/app/Plugin/Companies/Controller/CompaniesController.php on line 78
+[16-Apr-2013 14:49:20] PHP Fatal error:  Call to a member function set() on a non-object in /home/trueo846/public_html/api/app/Plugin/Companies/Controller/CompaniesController.php on line 78
+[23-Apr-2013 14:04:15] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/public_html/api/app/Plugin/Offers/Controller/OffersController.php on line 52
+[23-Apr-2013 14:05:42] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/public_html/api/app/Plugin/Offers/Controller/OffersController.php on line 52
+[23-Apr-2013 14:07:29] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/public_html/api/app/Plugin/Offers/Controller/OffersController.php on line 52
+[23-Apr-2013 14:09:17] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/public_html/api/app/Plugin/Offers/Controller/OffersController.php on line 52
+[23-Apr-2013 14:12:06] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/public_html/api/app/Plugin/Offers/Controller/OffersController.php on line 52
+[23-Apr-2013 14:32:09] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/public_html/api/app/Plugin/Offers/Controller/OffersController.php on line 52
+[29-Apr-2013 11:20:52] PHP Fatal error:  Call to a member function set() on a non-object in /home/trueo846/public_html/api/app/Plugin/Users/Controller/UsersController.php on line 62
+[16-Jul-2013 11:43:06] PHP Fatal error:  Call to a member function query() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 47
+[16-Jul-2013 11:43:10] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Companies/Controller/CompaniesController.php on line 66
+[16-Jul-2013 11:43:10] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Companies/Controller/CompaniesController.php on line 66
+[16-Jul-2013 11:43:10] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 49
+[16-Jul-2013 11:43:10] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 49
+[16-Jul-2013 11:43:10] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 49
+[16-Jul-2013 11:43:11] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 49
+[16-Jul-2013 11:43:11] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 49
+[16-Jul-2013 11:43:11] PHP Fatal error:  Call to a member function query() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 47
+[16-Jul-2013 11:43:12] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Companies/Controller/CompaniesController.php on line 66
+[16-Jul-2013 11:43:13] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Companies/Controller/CompaniesController.php on line 66
+[16-Jul-2013 11:43:13] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 49
+[16-Jul-2013 11:43:13] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 49
+[16-Jul-2013 11:43:13] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 49
+[16-Jul-2013 11:43:13] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 49
+[16-Jul-2013 11:43:13] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 49
+[16-Jul-2013 11:43:14] PHP Fatal error:  Call to a member function query() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 47
+[16-Jul-2013 11:43:17] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Offers/Controller/OffersController.php on line 52
+[16-Jul-2013 11:43:17] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Offers/Controller/OffersController.php on line 52
+[16-Jul-2013 13:44:49] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 49
+[16-Jul-2013 13:46:41] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 49
+[17-Jul-2013 09:51:44] PHP Fatal error:  Cannot access protected property Moip::$xml in /home/trueo846/secure/t1core/app/Plugin/Payments/Controller/PaymentsController.php on line 188
+[17-Jul-2013 10:18:02] PHP Fatal error:  Call to undefined method Moip::answer() in /home/trueo846/secure/t1core/app/Plugin/Payments/Controller/PaymentsController.php on line 192
+[17-Jul-2013 16:57:08] PHP Fatal error:  Call to a member function set() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 64
+[18-Jul-2013 20:23:36] PHP Fatal error:  Call to a member function setConditionsForSelect() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 160
+[18-Jul-2013 21:48:35] PHP Fatal error:  Call to a member function setConditionsForSelect() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 160
+[18-Jul-2013 22:06:53] PHP Fatal error:  Call to a member function setConditionsForSelect() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 160
+[18-Jul-2013 22:13:10] PHP Fatal error:  Call to a member function setConditionsForSelect() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 160
+[18-Jul-2013 22:15:17] PHP Fatal error:  Call to a member function setConditionsForSelect() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 160
+[18-Jul-2013 22:18:14] PHP Fatal error:  Call to a member function setConditionsForSelect() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 160
+[19-Jul-2013 13:24:32] PHP Fatal error:  Call to a member function set() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Users/Controller/UsersController.php on line 64
+[29-Jul-2013 19:07:03] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Offers/Controller/OffersController.php on line 52
+[29-Jul-2013 19:07:04] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Offers/Controller/OffersController.php on line 52
+[29-Jul-2013 19:07:20] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Offers/Controller/OffersController.php on line 52
+[29-Jul-2013 19:07:29] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Offers/Controller/OffersController.php on line 52
+[29-Jul-2013 19:07:30] PHP Fatal error:  Call to a member function associationsToUnbindForParams() on a non-object in /home/trueo846/secure/t1core/app/Plugin/Offers/Controller/OffersController.php on line 52
